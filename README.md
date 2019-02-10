@@ -5,6 +5,7 @@
 ![kubernetes-gcp](https://s3-ap-southeast-2.amazonaws.com/kong-gcp-kubernetes/kubernetes.png)
 
 
+## Setup
 
 ### Login to the google cloud platform console and navigate to the marketplace:
 
