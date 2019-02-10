@@ -3,6 +3,9 @@
 
 ![kubernetes-gcp](https://s3-ap-southeast-2.amazonaws.com/kong-gcp-kubernetes/kubernetes.png)
 
+## About:
+This is a walk through on how to quickly install Kong on Google Cloud Platforms Kubernetes engine, and expose Kongs management service endpoint to the internet.  
+
 ## Setup
 
 ### Login to the google cloud platform console and navigate to the marketplace:
